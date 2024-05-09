@@ -24,7 +24,7 @@ export default function Footer() {
             </li>
             <li>
               <Link href="#">Privacy Policy</Link>
-            </li>
+            </li>git push -u origin main
           </ul>
         </div>
         <div className="space-y-4">

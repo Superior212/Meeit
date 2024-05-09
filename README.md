@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In an era where connectivity and seamless experiences are paramount, an event mobile app has become a fundamental tool for both event organizers and attendees. This app will serve as an essential platform to engage participants, provide event information, facilitate networking, and optimize event logistics.  Our envisaged app is expected to deliver a feature-rich, user-friendly mobile app tailored to today’s event's unique requirements. 
